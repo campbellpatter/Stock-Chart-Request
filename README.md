@@ -1,4 +1,4 @@
-# Stock-Chart-Request
+# Stock-Chart-Tool
 
 Enter personal API key in configure file for Alpha Vantage API. Get key from:
 

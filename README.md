@@ -1,7 +1,9 @@
 # Stock-Chart-Request
 
 Enter personal API key in configure file for Alpha Vantage API. Get key from:
+
 https://www.alphavantage.co/support/#api-key
+
 
 Run "python Alpha.py" in command prompt/terminal.
 
